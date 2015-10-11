@@ -1,4 +1,4 @@
-I reference from the community. I up here for saving and using in my project
+I reference from the community. I up here for saving and using in my project.
 
 ## PayPal REST API Sample for Node.js
 
